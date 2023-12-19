@@ -1,0 +1,12 @@
+.comment-image{
+	width:50px;
+	height:auto;
+	float: left;
+}
+
+.comment-text{
+	width:90%;
+	height: auto;
+	box-sizing: border-box;
+	float: right;
+}
