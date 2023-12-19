@@ -65,15 +65,4 @@ endwhile;
 
 <script src="js/script.js"></script>
 </body>
-</html>                                           
-
-
-ronaldo dilma nah 13 leg over she count
-100 nigga dey her queue as if i know i bounce
-before i know she count all my loses amount 
-to me never losing my sound i beter be the man i said i am 
-
-
-
-
-645
+</html>
